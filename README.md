@@ -1,0 +1,2 @@
+# tkinter-lotto
+Lotto DABAK
