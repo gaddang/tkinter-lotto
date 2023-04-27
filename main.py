@@ -6,7 +6,7 @@ lotto_num = range(1,46)
 
 def buttonClick():
     label=tkinter.Label(window, text=str(random.sample(lotto_num,6)))
-    label=pack()
+    label.pack()
 
     #print(random.sample(lotto_num,6))
 
